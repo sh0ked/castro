@@ -120,7 +120,6 @@ Changelog:
 install_requires = [
           # -*- Extra requirements: -*-
           'PyYAML',
-          'pygame',
           'setuptools',
 ]
 
